@@ -1,0 +1,4 @@
+config: 
+    info: 
+        env: pro
+        version: 1
